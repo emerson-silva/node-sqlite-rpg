@@ -1,0 +1,30 @@
+{
+  "name": "sqlite-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emerson-silva/node-sqlite-rpg.git"
+  },
+  "keywords": [
+    "SQLite",
+    "NodeJS",
+    "RPG",
+    "API"
+  ],
+  "author": "Emerson Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emerson-silva/node-sqlite-rpg/issues"
+  },
+  "homepage": "https://github.com/emerson-silva/node-sqlite-rpg#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "sqlite3": "^4.0.9"
+  }
+}
