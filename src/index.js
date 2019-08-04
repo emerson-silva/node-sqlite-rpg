@@ -9,8 +9,8 @@ const app = express();
 const characters =
 [
   {
-      name: "Enlodrel",
-      sex: "Male",
+      name: "Sofia",
+      sex: "Female",
       race: "Elf",
       class: "Paladin",
       aling: "G",
@@ -23,7 +23,7 @@ const characters =
           Wis: 14,
           Cha: 13
       },
-      desc: "Enlodrel wears scale mail and wields a longsword."
+      desc: "Sofia wears scale mail and wields a longsword."
   },
   {
       name: "Angel",
