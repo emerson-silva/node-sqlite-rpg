@@ -23,7 +23,7 @@ Prompt de Comando (ou algum simulador de Console a sua escolha, exemplo: cmder)
 
 Executar os comando node -v e npm -v para verificar a instalação. Esses comandos devem escrever no console a versão instalada do NnodeJS e NPM
 
-* Titulo *
+*1.2 Projeto*
 
 Acesse https://github.com/emerson-silva/node-sqlite-rpg e baixe o repositório como um .zip
 
@@ -41,7 +41,7 @@ Acesse a url http://localhost:3001/ para testar o servidor. A mensagem "Servidor
 -//-
 
 
-*Instruções de Uso*
+*2. Instruções de Uso*
 
 Acessar a url hostname/port/character/character_id para acessar um personagem em específico.
 exemplo: localhost:3001/character/1
