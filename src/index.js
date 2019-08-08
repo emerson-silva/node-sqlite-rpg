@@ -17,12 +17,12 @@ const characters =
       aling: "G",
       attributes:
       {
-        Str: 11,
-        Dex: 11,
-        Con: 9,
-        Int: 7,
-        Wis: 14,
-        Cha: 13
+        str: 11,
+        dex: 11,
+        con: 9,
+        int: 7,
+        wis: 14,
+        cha: 13
       },
       desc: "Sofia wears scale mail and wields a longsword."
     },
@@ -35,12 +35,12 @@ const characters =
       aling: "N",
       attributes:
       {
-        Str: 9,
-        Dex: 12,
-        Con: 15,
-        Int: 8,
-        Wis: 12,
-        Cha: 9
+        str: 9,
+        dex: 12,
+        con: 15,
+        int: 8,
+        wis: 12,
+        cha: 9
       },
       desc: "Angel wears simple clothing and wields a quarterstaff."
     },
@@ -53,12 +53,12 @@ const characters =
       aling: "N",
       attributes:
       {
-        Str: 13,
-        Dex: 9,
-        Con: 10,
-        Int: 9,
-        Wis: 9,
-        Cha: 11
+        str: 13,
+        dex: 9,
+        con: 10,
+        int: 9,
+        wis: 9,
+        cha: 11
       },
       desc: "Eahtakir wears modest garments and a dragonscale cloak. Eahtakir has an animal companion, a green firedrake named Chenry."
     },
@@ -71,12 +71,12 @@ const characters =
       aling: "LG",
       attributes:
       {
-        Str: 11,
-        Dex: 12,
-        Con: 15,
-        Int: 6,
-        Wis: 14,
-        Cha: 14
+        str: 11,
+        dex: 12,
+        con: 15,
+        int: 6,
+        wis: 14,
+        cha: 14
       },
       desc: "Gytha wears well-made clothing and a black cloak. Gytha has raven named Hilda."
     },
@@ -89,12 +89,12 @@ const characters =
       aling: "LE",
       attributes:
       {
-        Str: 11,
-        Dex: 7,
-        Con: 15,
-        Int: 14,
-        Wis: 12,
-        Cha: 7
+        str: 11,
+        dex: 7,
+        con: 15,
+        int: 14,
+        wis: 12,
+        cha: 7
       },
       desc: "Wisym wears leather armor and wields a battleaxe. Wisym is searching for his missing daughter."
     },
@@ -107,12 +107,12 @@ const characters =
       aling: "NG",
       attributes:
       {
-        Str: 8,
-        Dex: 18,
-        Con: 9,
-        Int: 13,
-        Wis: 11,
-        Cha: 16
+        str: 8,
+        dex: 18,
+        con: 9,
+        int: 13,
+        wis: 11,
+        cha: 16
       },
       desc: "Alyn wears studded leather and wields a longsword. Alyn speaks with a soft voice."
     },
@@ -124,12 +124,12 @@ const characters =
       lvl: 5,
       aling: "LN",
       attributes: {
-        Str: 8,
-        Dex: 14,
-        Con: 6,
-        Int: 10,
-        Wis: 14,
-        Cha: 16
+        str: 8,
+        dex: 14,
+        con: 6,
+        int: 10,
+        wis: 14,
+        cha: 16
       },
       desc: "Minarv wears modest garments and a fox fur cape. Minarv is jealous and fanatical."
     },
@@ -141,12 +141,12 @@ const characters =
       lvl: 9,
       aling: "N",
       attributes: {
-        Str: 14,
-        Dex: 14,
-        Con: 13,
-        Int: 14,
-        Wis: 7,
-        Cha: 13
+        str: 14,
+        dex: 14,
+        con: 13,
+        int: 14,
+        wis: 7,
+        cha: 13
       },
       desc: "Raha wears well-made clothing and a sling of vials and potions. Raha is searching for her lost sister."
     },
@@ -158,12 +158,12 @@ const characters =
       lvl: 8,
       aling: "LG",
       attributes: {
-        Str: 7,
-        Dex: 10,
-        Con: 13,
-        Int: 13,
-        Wis: 15,
-        Cha: 10
+        str: 7,
+        dex: 10,
+        con: 13,
+        int: 13,
+        wis: 15,
+        cha: 10
       },
       desc: "Serime wears tailored clothing and an amulet of luminous crystal. Serime compulsively plays with a brass ring."
     },
@@ -175,12 +175,12 @@ const characters =
       lvl: 1,
       aling: "LG",
       attributes: {
-        Str: 15,
-        Dex: 8,
-        Con: 11,
-        Int: 8,
-        Wis: 9,
-        Cha: 9
+        str: 15,
+        dex: 8,
+        con: 11,
+        int: 8,
+        wis: 9,
+        cha: 9
       },
       desc: "Annar wears a chain shirt and wields a war pick and net. Annar is hunting the demon who slew his mentor."
     },
@@ -192,12 +192,12 @@ const characters =
       lvl: 3,
       aling: "NG",
       attributes: {
-        Str: 10,
-        Dex: 9,
-        Con: 8,
-        Int: 11,
-        Wis: 12,
-        Cha: 12
+        str: 10,
+        dex: 9,
+        con: 8,
+        int: 11,
+        wis: 12,
+        cha: 12
       },
       desc: "Ciabha wears plain clothing and several pouches hang from his belt. Ciabha seeks to help the poor and unfortunate."
     },
@@ -209,12 +209,12 @@ const characters =
       lvl: 4,
       aling: "CN",
       attributes: {
-        Str: 7,
-        Dex: 10,
-        Con: 8,
-        Int: 14,
-        Wis: 10,
-        Cha: 13
+        str: 7,
+        dex: 10,
+        con: 8,
+        int: 14,
+        wis: 10,
+        cha: 13
       },
       desc: "Gamin wears studded leather and wields a greataxe."
     },
@@ -226,12 +226,12 @@ const characters =
       lvl: 12,
       aling: "NG",
       attributes: {
-        Str: 11,
-        Dex: 16,
-        Con: 12,
-        Int: 13,
-        Wis: 15,
-        Cha: 18
+        str: 11,
+        dex: 16,
+        con: 12,
+        int: 13,
+        wis: 15,
+        cha: 18
       },
       desc: "Catai wears leather armor and wields a light hammer. Catai is virtuous and extravagant."
     },
@@ -243,12 +243,12 @@ const characters =
       lvl: 1,
       aling: "CN",
       attributes: {
-        Str: 10,
-        Dex: 10,
-        Con: 12,
-        Int: 7,
-        Wis: 9,
-        Cha: 10
+        str: 10,
+        dex: 10,
+        con: 12,
+        int: 7,
+        wis: 9,
+        cha: 10
       },
       desc: "Cora wears studded leather and wields a longsword. Cora seeks revenge against the sister who betrayed her."
     },
@@ -260,12 +260,12 @@ const characters =
       lvl: 6,
       aling: "LN",
       attributes: {
-        Str: 10,
-        Dex: 16,
-        Con: 10,
-        Int: 14,
-        Wis: 9,
-        Cha: 13
+        str: 10,
+        dex: 16,
+        con: 10,
+        int: 14,
+        wis: 9,
+        cha: 13
       },
       desc: "Merca wears fine clothing and numerous rings. Merca suffers a deadly allergy to moulds."
     },
@@ -277,12 +277,12 @@ const characters =
       lvl: 9,
       aling: "N",
       attributes: {
-        Str: 7,
-        Dex: 13,
-        Con: 6,
-        Int: 18,
-        Wis: 11,
-        Cha: 13
+        str: 7,
+        dex: 13,
+        con: 6,
+        int: 18,
+        wis: 11,
+        cha: 13
       },
       desc: "Elilda wears expensive clothing and a dragonscale cloak."
     },
@@ -294,12 +294,12 @@ const characters =
       lvl: 5,
       aling: "CN",
       attributes: {
-        Str: 16,
-        Dex: 14,
-        Con: 13,
-        Int: 5,
-        Wis: 12,
-        Cha: 6
+        str: 16,
+        dex: 14,
+        con: 13,
+        int: 5,
+        wis: 12,
+        cha: 6
       },
       desc: "Here wears a chain shirt and wields a maul. Here suffers a traumatic fear of darkness."
     },
@@ -311,12 +311,12 @@ const characters =
       lvl: 2,
       aling: "LN",
       attributes: {
-        Str: 14,
-        Dex: 9,
-        Con: 13,
-        Int: 14,
-        Wis: 11,
-        Cha: 13
+        str: 14,
+        dex: 9,
+        con: 13,
+        int: 14,
+        wis: 11,
+        cha: 13
       },
       desc: "Anel wears well-made clothing and a blue cloak. Anel is lustful and cowardl."
     }
@@ -337,6 +337,39 @@ app.get('/character/:char_id', (req, res) => {
   let char_id = req.params.char_id;
   if (char_id>=0 && char_id<characters.length) {
     res.send(characters[char_id]);
+  } else {
+    res.send({
+      errorCode: 404,
+      message: ("Can't find character with id " + char_id)
+    });
+  }
+});
+
+app.get('/user/:user_id/character/all', (req, res) => {
+  let user_id = req.params.char_id;
+  if (user_id>=0 && user_id<n_users) {
+    switch (user_id) {
+      case 0:
+        res.send(characters.splice(0,3));
+        break;
+      case 1:
+        res.send(characters.splice(3,6));
+        break;
+      case 2:
+        res.send(characters.splice(6,9));
+        break;
+      case 3:
+        res.send(characters.splice(9,12));
+        break;
+      case 4:
+        res.send(characters.splice(12,15));
+        break;
+      default:
+        res.send({
+          errorCode: 404,
+          message: ("Can't find character with id " + char_id)
+        });
+    }
   } else {
     res.send({
       errorCode: 404,
