@@ -5,7 +5,7 @@ Este repositório contém um Servidor NodeJS simples para construir um serviço 
 Este servidor será utilizado para fins educativos e de treinamento.
 
 Inicialmente utilizado como Dummy Database* para o Treinamento de REACT.
-*Dummy Database: Objeto Javascript salvo em memória temporária, usado apenas para retorno de dados apenas para testes.
+*Dummy Database: Objeto Javascript salvo em memória temporária, usado apenas para retorno de dados para a execução de testes.
 
 Em atualizações futuras irei, de fato, implementar o servidor uilizando NodeJS e SQLite.
 
@@ -19,9 +19,7 @@ Em atualizações futuras irei, de fato, implementar o servidor uilizando NodeJS
 
 Instalar a versão mais recente do NodeJS (^v10.15.3) encontrada no site: https://nodejs.org/en/
 
-Prompt de Comando (ou algum simulador de Console a sua escolha, exemplo: cmder)
-
-Executar os comando node -v e npm -v para verificar a instalação. Esses comandos devem escrever no console a versão instalada do NnodeJS e NPM
+No Prompt de Comando (ou algum simulador de Console a sua escolha, exemplo: cmder): Executar os comando node -v e npm -v para verificar a instalação. Esses comandos devem escrever no console a versão instalada do NodeJS e NPM
 
 *1.2 Projeto*
 
